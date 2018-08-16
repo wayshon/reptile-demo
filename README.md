@@ -1,2 +1,2 @@
 # reptile-demo
-a demo fetch data by nodejs
+a demo fetch jianshu data by nodejs
